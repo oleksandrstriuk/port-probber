@@ -15,7 +15,7 @@ PortProbber prototype is a Python script for scanning a range of ports on a targ
 
 3. Run the script with the following command, specifying the target host and port range:
 
-python port_scan.py target_host start_port end_port
+`python port_scan.py target_host start_port end_port`
 
 Replace `target_host` with the IP address or domain name of the target host, `start_port` with the starting port of the scan, and `end_port` with the ending port of the scan.
 
