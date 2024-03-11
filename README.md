@@ -21,7 +21,7 @@ Replace `target_host` with the IP address or domain name of the target host, `st
 
 ## Example
 
-python port_scan.py example.com 1 100
+`python port_scan.py example.com 1 100`
 
 This will scan ports 1 to 100 on the host example.com.
 
