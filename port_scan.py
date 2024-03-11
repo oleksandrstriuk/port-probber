@@ -32,7 +32,7 @@ def port_scan(target_host, start_port, end_port):
         sock.close()
 
 # Example usage:
-target_host = "primalbitmedia.com" # Specify the target host (domain name or IP address).
+target_host = "example.com" # Specify the target host (domain name or IP address).
 start_port = 1 # Specify the starting port of the scan.
 end_port = 100 # Specify the ending port of the scan.
 
